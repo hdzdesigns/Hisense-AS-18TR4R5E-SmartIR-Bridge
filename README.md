@@ -2,7 +2,7 @@
 
 **Creator:** HDz_designs
 
-This repository provides a custom SmartIR implementation to control a non-smart Hisense AS-18TR4R5E air conditioner locally via Home Assistant. It is configured for an ESPHome-based transmitter utilizing the AZIOT IR Blaster.
+This repository provides a custom SmartIR implementation to control a non-smart Hisense AS-18TR4R5E air conditioner locally via Home Assistant. It is configured for an ESPHome-based transmitter utilizing the ESPHome IR Blaster/Proxy.
 
 ### Technical Details
 *   **Hardware:** ESPHome IR Trancever
