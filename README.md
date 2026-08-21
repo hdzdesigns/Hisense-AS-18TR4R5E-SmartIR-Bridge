@@ -1,0 +1,1 @@
+# Hisense-AS-18TR4R5E-SmartIR-Bridge
